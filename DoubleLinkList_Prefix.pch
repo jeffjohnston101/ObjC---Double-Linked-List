@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'DoubleLinkList' target in the 'DoubleLinkList' project.
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif
