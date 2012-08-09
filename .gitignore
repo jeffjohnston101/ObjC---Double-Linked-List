@@ -7,3 +7,5 @@ build/**/*
 project.xcworkspace/
 xcuserdata/
 *.xcuserstate
+
+DoubleLinkList.xcodeproj/project.xcworkspace/xcuserdata/jbjohnston.xcuserdatad/UserInterfaceState.xcuserstate
