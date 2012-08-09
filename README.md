@@ -2,7 +2,7 @@ Objective-C:  Double Linked List
 ======================================
 Developed in Xcode - September, 2011
 
-This was an project to create a Double Linked List (DLL) in Objective-C.  This project creates the nodes in a DLL via the NodeFactory class.  It then runs the list through an algorithm to remove select nodes, then through another algorithm to sort the nodes.  This was a great learning tool when first starting with Objective-C.
+This was a project to create a Double Linked List (DLL) in Objective-C.  This project creates the nodes in a DLL via the NodeFactory class.  It then runs the list through an algorithm to remove select nodes, then through another algorithm to sort the nodes.  This was a great learning tool when first starting with Objective-C.
 
 
 What is a Double Linked List?
